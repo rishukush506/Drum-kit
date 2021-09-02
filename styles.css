@@ -1,0 +1,38 @@
+
+div{
+  margin:250px auto 250px 150px;
+  display: inline-block;
+}
+body{
+  margin-top:0;
+  margin-bottom: 0;
+  background-image: url("image.jpg");
+ background-repeat:no-repeat;
+   background-size: cover;
+}
+h2{
+  display:inline-block;
+}
+button{
+  padding-left:30px;
+  padding-right:30px;
+  border: solid;
+  border-width: 2.5px;
+  border-radius: 5px;
+  border-color: white;
+  background-color: black;
+  color: white;
+  margin: 10px;
+
+}
+.pressed{
+background-color: #2D2424;
+transform:scale(1.1);
+box-shadow: 0 0 10px #2D2424;
+
+}
+footer
+{
+  color: white;
+  text-align: center;
+}
